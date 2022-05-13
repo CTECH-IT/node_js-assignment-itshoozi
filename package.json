@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.2.3",
+    "discord.js": "^13.6.0",
+    "quick.db": "^7.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://itshoozi: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@github.com/CTECH-IT/node_js-assignment-itshoozi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CTECH-IT/node_js-assignment-itshoozi/issues"
+  },
+  "homepage": "https://github.com/CTECH-IT/node_js-assignment-itshoozi#readme",
+  "description": ""
+}
